@@ -1,0 +1,6 @@
+com\ego\controller\UserController.class
+com\ego\controller\ImageController.class
+com\ego\controller\ProductController.class
+com\ego\controller\PageController.class
+com\ego\controller\FileUploadController.class
+com\ego\interceptor\ManagerLoginInterceptor.class

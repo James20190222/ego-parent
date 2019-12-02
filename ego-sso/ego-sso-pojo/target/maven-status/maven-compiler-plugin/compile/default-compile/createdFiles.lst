@@ -1,0 +1,6 @@
+com\ego\pojo\Admin.class
+com\ego\pojo\AdminExample$Criteria.class
+com\ego\pojo\AdminExample$GeneratedCriteria.class
+com\ego\pojo\AdminExample$Criterion.class
+com\ego\pojo\AdminExample.class
+com\ego\pojo\AdminWithBLOBs.class

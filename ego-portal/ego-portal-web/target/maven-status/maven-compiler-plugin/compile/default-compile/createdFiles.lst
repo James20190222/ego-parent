@@ -1,0 +1,9 @@
+com\ego\controller\OrderController.class
+com\ego\controller\UserController.class
+com\ego\interceptor\CartInterceptor.class
+com\ego\interceptor\PortalCommonInterceptor.class
+com\ego\controller\GoodsCategoryController.class
+com\ego\controller\SearchController.class
+com\ego\controller\PageController.class
+com\ego\controller\CartController.class
+com\ego\interceptor\PortalLoginInterceptor.class

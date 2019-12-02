@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ego-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ego-manager/ego-manager-mapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ego-manager/ego-manager-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ego-manager/ego-manager-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ego-manager/ego-manager-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ego-order/ego-order-mapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ego-order/ego-order-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ego-order/ego-order-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ego-order/ego-order-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ego-portal/ego-portal-mapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ego-portal/ego-portal-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ego-portal/ego-portal-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ego-portal/ego-portal-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ego-rpc/ego-rpc-mapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ego-rpc/ego-rpc-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ego-rpc/ego-rpc-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ego-rpc/ego-rpc-serviceImpl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ego-sso/ego-sso-mapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ego-sso/ego-sso-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ego-sso/ego-sso-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ego-sso/ego-sso-serviceImpl" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

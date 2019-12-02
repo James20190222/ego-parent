@@ -1,0 +1,16 @@
+com\ego\enums\OrderWay.class
+com\ego\enums\PayStatus.class
+com\ego\result\BaseResult.class
+com\ego\util\Md5Util.class
+com\ego\enums\ShipStatus.class
+com\ego\util\JsonUtil.class
+com\ego\enums\OrderStatus.class
+com\ego\util\FileUploadUtil.class
+com\ego\result\EgoPageInfo.class
+com\ego\util\DateUtil.class
+com\ego\enums\SendStatus.class
+com\ego\result\BaseResultEnum.class
+com\ego\util\CookieUtil.class
+com\ego\result\FileResult.class
+com\ego\util\FTPUtil.class
+com\ego\util\UUIDUtil.class

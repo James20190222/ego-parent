@@ -1,0 +1,9 @@
+com\ego\mapper\GoodsAttributeMapper.class
+com\ego\mapper\GoodsTypeMapper.class
+com\ego\mapper\GoodsAttrMapper.class
+com\ego\mapper\GoodsImagesMapper.class
+com\ego\mapper\BrandMapper.class
+com\ego\mapper\GoodsCategoryMapper.class
+com\ego\mapper\AdminMapper.class
+com\ego\mapper\GoodsSpecMapper.class
+com\ego\mapper\GoodsMapper.class
