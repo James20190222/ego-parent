@@ -85,7 +85,7 @@
         <!-- dubbo依赖 -->
         <dubbo-version>2.6.0</dubbo-version>
         <!-- zookeeper依赖 -->
-        <zookeeper-version>3.4.13</zookeeper-version>
+        <zookeeper-version>3.4.14</zookeeper-version>
         <!-- zkclient依赖 -->
         <zkclient-version>0.1</zkclient-version>
         <!--elasticsearch依赖-->
