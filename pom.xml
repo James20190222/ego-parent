@@ -39,7 +39,7 @@
     <!-- 集中定义依赖组件版本号 -->
     <properties>
         <!-- junit 依赖 -->
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <!-- spring 依赖 -->
         <spring-version>4.3.4.RELEASE</spring-version>
         <!-- hibernate 数据验证框架依赖 -->
